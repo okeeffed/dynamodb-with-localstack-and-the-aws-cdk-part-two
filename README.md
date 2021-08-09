@@ -1,8 +1,8 @@
 # DynamoDB With LocalStack and the AWS CDK
 
-This is the companion repo for the blog post ["DynamoDB With LocalStack and the AWS CDK"](https://blog.dennisokeeffe.com/blog/2021-08-09-dynamodb-with-localstack-and-the-aws-cdk)
+This is the companion repo for the blog post ["DynamoDB With LocalStack and the AWS CDK Part Two"](https://blog.dennisokeeffe.com/blog/2021-08-10-dynamodb-with-localstack-and-the-aws-cdk-part-two)
 
-It follows from the original post [Using the AWS CDK With LocalStack and aws-cdk-local](https://blog.dennisokeeffe.com/blog/2021-08-07-using-the-aws-cdk-with-localstack-and-aws-cdk-local).
+It follows from the ["DynamoDB With LocalStack and the AWS CDK Part One"](https://blog.dennisokeeffe.com/blog/2021-08-09-dynamodb-with-localstack-and-the-aws-cdk).
 
 It will create a DynamoDB table and tear that table down when destroyed.
 
